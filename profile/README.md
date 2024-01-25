@@ -1,6 +1,12 @@
 Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique de la DTNUM.
 
+*Toutes les démonstrations en lien sont hébérgées sur nos serveurs.*
+
 # Liens de démo ouverts : 
+
+## Chat
+
+- Cette [démo](https://demo6.c1.ns1lab.net/) permet de dialoguer avec Vicuna 33B.
 
 ## RAG
 
@@ -10,6 +16,8 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 - Une [démo](https://demo3.c1.ns1lab.net) identique, appliquée maintenant avec les documents publiques de l'IGA
 
 ## Synthèse
+
+- [Démo](https://demo4.c1.ns1lab.net/) pour résumé une page web. 
 
 ## Multi-modal
 
