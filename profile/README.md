@@ -6,7 +6,7 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 
 ## Chat
 
-- Cette [démo](https://demo6.c1.ns1lab.net/) permet de dialoguer avec Vicuna 33B.
+- Cette [démo](https://chat.numerique-interieur.com/) permet de dialoguer avec Vicuna 33B.
 
 ## RAG
 
@@ -17,7 +17,7 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 
 ## Synthèse
 
-- [Démo](https://demo4.c1.ns1lab.net/) pour résumé une page web. 
+- [Démo](https://demo4.c1.ns1lab.net/) pour résumer une page web. 
 
 ## Multi-modal
 
