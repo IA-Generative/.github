@@ -21,7 +21,8 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 
 ## Multi-modal
 
-- Cette [démo](https://demo5.c1.ns1lab.net) utilise le modèle CogVLM pour interagir avec des images avec des questions en langage naturel
+- Cette [démo](https://demo5.c1.ns1lab.net) utilise le modèle CogVLM pour interagir avec des images avec des questions en langage naturel,
+- Cette [démo](https://txt2image.c0.cloud-pi-native.com/) utilise un modèle de diffusion pour générer des images.
 
 ## Autres
 - Cette [démo](https://dsfr-demo.numerique-interieur.com)  montre l'utilisation de STREAMLIT avec l'habillage du gouvernement.
