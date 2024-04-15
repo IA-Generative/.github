@@ -6,14 +6,11 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 
 ## Chat
 
-- Cette [démo](https://chat.numerique-interieur.com/) permet de dialoguer avec Vicuna 33B.
+- Cette [démo](https://chat.numerique-interieur.com/) permet de dialoguer avec Assistant IA.
 
 ## RAG
 
-- Cette [démo](https://demo7.c1.ns1lab.net) permet de mettre en avant STREAMLIT + PDF + LANGCHAIN + EMBEDDINGS + VECTORS DB + LLM pour de la recherche sémantique dans un document pdf, tiré du [dépot](https://github.com/alejandro-ao/langchain-ask-pdf) simple *ask-pdf*.
-
-- Une autre [démo](https://demo2.c1.ns1lab.net/) qui fait la même chose avec plusieurs pdf 
-- Une [démo](https://demo3.c1.ns1lab.net) identique, appliquée maintenant avec les documents publiques de l'IGA
+- Cette [démo](https://demo7.numerique-interieur.com) permet de mettre en avant STREAMLIT + PDF + LANGCHAIN + EMBEDDINGS + VECTORS DB + LLM pour de la recherche sémantique dans un document pdf, tiré du [dépot](https://github.com/alejandro-ao/langchain-ask-pdf) simple *ask-pdf*.
 
 ## Synthèse
 
