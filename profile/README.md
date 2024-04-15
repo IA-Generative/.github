@@ -6,7 +6,7 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 
 ## Chat
 
-- Cette [démo](https://chat.numerique-interieur.com/) permet de dialoguer avec Assistant IA.
+- Cette [démo](https://chat.numerique-interieur.com/) permet de dialoguer avec IA.
 
 ## RAG
 
