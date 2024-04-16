@@ -18,7 +18,7 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 
 ## RAG
 
-- [Démo](https://demo1.numerique-interieur.com) L'objectif ici, est de montrer qu'il est possible de travailler avec un grand nombre de données.
+- [Démo](https://demo1.numerique-interieur.com) : L'objectif ici, est de montrer qu'il est possible de travailler avec un grand nombre de données.
 
 ## Autres
 - Cette [démo](https://dsfr-demo.numerique-interieur.com)  montre l'utilisation de STREAMLIT avec l'habillage du gouvernement.
