@@ -6,15 +6,19 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 
 ## Chat
 
-- Cette [démo](https://chat.numerique-interieur.com/) permet de dialoguer avec IA.
+- Cette [démo](https://chat.numerique-interieur.com) permet de dialoguer avec IA.
 
-## RAG
+## RAG avec un PDF
 
 - Cette [démo](https://demo7.numerique-interieur.com) permet de mettre en avant STREAMLIT + PDF + LANGCHAIN + EMBEDDINGS + VECTORS DB + LLM pour de la recherche sémantique dans un document pdf, tiré du [dépot](https://github.com/alejandro-ao/langchain-ask-pdf) simple *ask-pdf*.
 
 ## Synthèse
 
 - [Démo](https://demo4.numerique-interieur.com) pour résumer une page web. 
+
+## RAG
+
+- [Démo](https://demo1.numerique-interieur.com) L'objectif ici, est de montrer qu'il est possible de travailler avec un grand nombre de données.
 
 ## Autres
 - Cette [démo](https://dsfr-demo.numerique-interieur.com)  montre l'utilisation de STREAMLIT avec l'habillage du gouvernement.
