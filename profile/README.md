@@ -14,7 +14,7 @@ Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique
 
 ## Synthèse
 
-- [Démo]((https://abrege-streamlit.c0.cloud-pi-native.com/) pour résumer une page web, un document ...
+- [Démo](https://abrege-streamlit.c0.cloud-pi-native.com) pour résumer une page web, un document ...
 
 ## RAG
 
