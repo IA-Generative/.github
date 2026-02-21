@@ -10,7 +10,7 @@ Most repositories are linked to products from the MirAI suite (the AI of the Fre
 Rejoignez la communauté, utilisez, contribuez et donnez-nous vos feedbacks.
 Join the community, use our tools, contribute, and share your feedback.
 
-<imgwidth="614" height="410" alt="communautés" src="https://github.com/user-attachments/assets/d0636b60-1036-48d8-8f09-a4dd53acc13c" />
+<img width="614" height="410" alt="communautés" src="https://github.com/user-attachments/assets/d0636b60-1036-48d8-8f09-a4dd53acc13c" />
 
 Vous trouverez par exemple nos repos sur les produits : Compte-Rendu, OCR, Résumé, Gestion des communautés, Assistant IA pour Thunderbird et les navigateurs, des outils de gestion de parc, des passerelles d'échanges sécurisées et bien plus
 You will find, for example, repositories for products such as:
