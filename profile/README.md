@@ -1,25 +1,22 @@
-Bienvenue sur la page publique de l'usine IA du bureau de la Fabrique Numérique de la DTNUM.
+# 👋 Welcome to the IA-Generative Organization
+# 👋 Bienvenue dans l’organisation **IA-Generative**
 
-*Toutes les démonstrations en lien sont hébérgées sur nos serveurs.*
+Cette organisation GitHub est dédiée aux initiatives liées à l'Intelligence Artificielle.
+La majorité des répositories sont rattachés aux produits de la suite MIrAI (l'iA du ministère de l'Intérieur mais qui signifie aussi futur en Japonais )
 
-# Liens de démo ouverts : 
+This GitHub organization is dedicated to initiatives related to Artificial Intelligence.
+Most repositories are linked to products from the MirAI suite (the AI of the French Ministry of the Interior — and also meaning future in Japanese).
 
-## Chat
+Rejoignez la communauté, utilisez, contribuez et donnez-nous vos feedbacks.
+Join the community, use our tools, contribute, and share your feedback.
 
-- Cette [démo](https://chat.numerique-interieur.com) permet de dialoguer avec IA.
+<img width="1536" height="1024" alt="communautés" src="https://github.com/user-attachments/assets/d0636b60-1036-48d8-8f09-a4dd53acc13c" />
 
-## RAG avec un PDF
+Vous trouverez par exemple nos repos sur les produits : Compte-Rendu, OCR, Résumé, Gestion des communautés, Assistant IA pour Thunderbird et les navigateurs, des outils de gestion de parc, des passerelles d'échanges sécurisées et bien plus
+You will find, for example, repositories for products such as:
+Meeting Minutes (Compte-Rendu), OCR, Summarization, Community Management, AI Assistant for Thunderbird and web browsers, device management tools, secure data exchange gateways, and much more.
 
-- Cette [démo](https://demo7.numerique-interieur.com) permet de mettre en avant STREAMLIT + PDF + LANGCHAIN + EMBEDDINGS + VECTORS DB + LLM pour de la recherche sémantique dans un document pdf, tiré du [dépot](https://github.com/alejandro-ao/langchain-ask-pdf) simple *ask-pdf*.
+Le ministère de l'intérieur est très attaché à l'open-source, nous utilisons, contribuons et produisons des communs numériques.
+The Ministry of the Interior is strongly committed to open source: we use it, contribute to it, and actively build digital commons.
 
-## Synthèse
-
-- [Démo](https://abrege-streamlit.c0.cloud-pi-native.com) pour résumer une page web, un document ...
-
-## RAG
-
-- [Démo](https://demo1.numerique-interieur.com) : L'objectif ici, est de montrer qu'il est possible de travailler avec un grand nombre de données.
-
-## Autres
-- Cette [démo](https://dsfr-demo.numerique-interieur.com)  montre l'utilisation de STREAMLIT avec l'habillage du gouvernement.
-[Dépot](https://github.com/IA-Generative/Streamlit-dsfr) Python 
+<img width="1536" height="1024" alt="open-source" src="https://github.com/user-attachments/assets/b29d2bcf-3911-4a29-8404-9905a2dedbb7" />
