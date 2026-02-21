@@ -1,9 +1,9 @@
 # 👋 Welcome to IA-Generative  
 ### Bienvenue dans l’organisation **IA-Generative**
 
-**IA-Generative** is the open innovation hub dedicated to Artificial Intelligence initiatives.
+**IA-Generative** is the open innovation hub dedicated to Artificial Intelligence initiatives within French State.
 
-Cette organisation GitHub rassemble nos initiatives stratégiques autour de l’Intelligence Artificielle.
+Cette organisation GitHub rassemble des initiatives stratégiques autour de l’Intelligence Artificielle au sein de l'État français.
 
 Most repositories power the **MirAI** suite — the AI platform of the French Ministry of the Interior  
 (*“Mirai” also means “future” in Japanese*).
