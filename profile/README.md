@@ -10,7 +10,7 @@ Most repositories are linked to products from the MirAI suite (the AI of the Fre
 Rejoignez la communauté, utilisez, contribuez et donnez-nous vos feedbacks.
 Join the community, use our tools, contribute, and share your feedback.
 
-<img width="614" height="410" alt="communautés" src="https://github.com/user-attachments/assets/d0636b60-1036-48d8-8f09-a4dd53acc13c" />
+<img width="915" height="706" alt="communautés" src="https://github.com/user-attachments/assets/1f6a4030-31c9-4896-aa62-8e45c9f3abf3" />
 
 Vous trouverez par exemple nos repos sur les produits : Compte-Rendu, OCR, Résumé, Gestion des communautés, Assistant IA pour Thunderbird et les navigateurs, des outils de gestion de parc, des passerelles d'échanges sécurisées et bien plus
 You will find, for example, repositories for products such as:
@@ -19,4 +19,4 @@ Meeting Minutes (Compte-Rendu), OCR, Summarization, Community Management, AI Ass
 Le ministère de l'intérieur est très attaché à l'open-source, nous utilisons, contribuons et produisons des communs numériques.
 The Ministry of the Interior is strongly committed to open source: we use it, contribute to it, and actively build digital commons.
 
-<img  width="614" height="410" alt="open-source" src="https://github.com/user-attachments/assets/b29d2bcf-3911-4a29-8404-9905a2dedbb7" />
+<img width="1354" height="352" alt="open-source" src="https://github.com/user-attachments/assets/6ef1c153-68a7-4ec0-94ce-4249b1539522" />
